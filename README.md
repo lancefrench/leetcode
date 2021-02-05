@@ -3,6 +3,7 @@ Repository of solutions to LeetCode problems.
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Notes| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium |||
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         |||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy |||
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [golang](./golang/number-of-1-bits.go) | | | Easy |||
