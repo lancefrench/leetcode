@@ -10,3 +10,4 @@ Repository of solutions to LeetCode problems.
 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [golang](./golang/binary-tree-right-side-view.go) | | | Medium | Binary Trees ||
 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)|
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium ||[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
+0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy | | |
