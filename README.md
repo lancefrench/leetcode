@@ -17,4 +17,5 @@ Repository of solutions to LeetCode problems.
 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[golang](./golang/is-graph-bipartite.go) | | | Medium | | |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy | | |
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium | | |
+1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [golang](./golang/the-k-weakest-rows-in-a-matrix.go) | | | Easy | | |
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [golang](./golang/number-of-steps-to-reduce-a-number-to-zero.go) | | | Easy | | |
