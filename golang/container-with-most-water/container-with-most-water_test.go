@@ -19,19 +19,19 @@ type answer struct {
 
 func Test_Problem0011(t *testing.T) {
 	examples := []example{
-		example{
+		{
 			params{[]int{1, 8, 6, 2, 5, 4, 8, 3, 7}},
 			answer{49},
 		},
-		example{
+		{
 			params{[]int{1, 1}},
 			answer{1},
 		},
-		example{
+		{
 			params{[]int{4, 3, 2, 1, 4}},
 			answer{16},
 		},
-		example{
+		{
 			params{[]int{1, 2, 1}},
 			answer{2},
 		},
