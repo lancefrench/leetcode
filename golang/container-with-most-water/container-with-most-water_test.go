@@ -44,7 +44,7 @@ func Test_Problem0011(t *testing.T) {
 		want := a.one
 
 		if got != want {
-			t.Errorf("got maxArea() = %d; want %d", got, want)
+			t.Errorf("got maxArea(%v) = %d; want %d", ex.params, got, want)
 		}
 	}
 }
