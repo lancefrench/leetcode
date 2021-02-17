@@ -4,20 +4,47 @@ import (
 	"testing"
 )
 
+type example struct {
+	params
+	answer
+}
+
 type params struct {
 	one []int
 }
 
-type ans struct {
+type answer struct {
 	one int
 }
 
 func Test_Problem0011(t *testing.T) {
-	input := params{[]int{1, 2, 3, 1}}
-	got := maxArea(input.one)
-	want := 3
+	examples := []example{
+		example{
+			params{[]int{1, 8, 6, 2, 5, 4, 8, 3, 7}},
+			answer{49},
+		},
+		example{
+			params{[]int{1, 1}},
+			answer{1},
+		},
+		example{
+			params{[]int{4, 3, 2, 1, 4}},
+			answer{16},
+		},
+		example{
+			params{[]int{1, 2, 1}},
+			answer{2},
+		},
+	}
 
-	if got != want {
-		t.Errorf("maxArea() = %d; want %d", got, want)
+	for _, ex := range examples {
+		a, p := ex.answer, ex.params
+
+		got := maxArea(p.one)
+		want := a.one
+
+		if got != want {
+			t.Errorf("got maxArea() = %d; want %d", got, want)
+		}
 	}
 }
