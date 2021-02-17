@@ -1,3 +1,4 @@
+// https://www.geeksforgeeks.org/permute-string-changing-case/
 func letterCasePermutation(S string) []string {
 	lettersPos := make([]int, 0)
 	for i, r := range S {
