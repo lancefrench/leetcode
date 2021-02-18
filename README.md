@@ -3,7 +3,7 @@ Repository of solutions to LeetCode problems.
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Notes| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water.go) | | | Medium |||
+0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium |||
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium |||
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         |||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium |||
@@ -12,6 +12,7 @@ Repository of solutions to LeetCode problems.
 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [golang](./golang/binary-tree-right-side-view.go) | | | Medium | Binary Tree ||
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [golang](./golang/valid-anagram.go) | | | Easy ||[Strings, bytes, runes, and characters in Go](https://blog.golang.org/strings)|
 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [golang](./golang/peeking-iterator.go) | | | Medium ||[Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)|
+0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium |||
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree ||
 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)|
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
