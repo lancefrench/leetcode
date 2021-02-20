@@ -21,6 +21,18 @@ func Test_Problem1249(t *testing.T) {
 			params{"lee(t(c)o)de)"},
 			output{"lee(t(c)o)de"},
 		},
+		{
+			params{"a)b(c)d"},
+			output{"ab(c)d"},
+		},
+		{
+			params{"))(("},
+			output{""},
+		},
+		{
+			params{"(a(b(c)d)"},
+			output{"a(b(c)d)"},
+		},
 	}
 
 	for _, tc := range tcs {
