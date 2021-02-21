@@ -20,6 +20,7 @@ Repository of solutions to LeetCode problems.
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [golang](./golang/letter-case-permutation.go) | | | Medium | Bitwise Operation | [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)| 
 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[golang](./golang/is-graph-bipartite.go) | | | Medium | | |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy | | |
+0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium |||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium | | |
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses) | | | Medium | | |
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [golang](./golang/the-k-weakest-rows-in-a-matrix.go) | | | Easy | | |
