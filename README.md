@@ -5,6 +5,7 @@ Repository of solutions to LeetCode problems.
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium |||
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer.go) | | | Easy |||
+0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium |||
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium |||
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         |||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium |||
@@ -24,7 +25,9 @@ Repository of solutions to LeetCode problems.
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [golang](./golang/letter-case-permutation.go) | | | Medium | Bitwise Operation | [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)| 
 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[golang](./golang/is-graph-bipartite.go) | | | Medium | | |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy | | |
-0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses.go) | _O(n)_ | | Medium | | |
+0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium | | |
+0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maxium-frequency-stack.go) | | | Hard | | |
+0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium |||
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium |||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium | | |
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses) | | | Medium | | |
