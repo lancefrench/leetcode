@@ -18,6 +18,7 @@ Repository of solutions to LeetCode problems.
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium | Dynamic Programming ||
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium |||
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree ||
+0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [golang](./golang/distribute-candies/distribute-candies.go) | | | Easy |||
 0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [golang](./golang/shortest-unsorted-continuos-subarray.go) | | | Medium |||
 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)|
 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [golang](./golang/set-mismatch/set-mismatch.go) | | | Easy | | | 
