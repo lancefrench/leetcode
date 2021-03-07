@@ -26,6 +26,7 @@ Repository of solutions to LeetCode problems.
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [golang](./golang/letter-case-permutation.go) | | | Medium | Bitwise Operation | [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)| 
 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[golang](./golang/is-graph-bipartite.go) | | | Medium | | |
+0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [golang](./golang/short-encoding-of-words/short-encoding-of-words.go) | | | Medium | | |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy | | |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium | | |
 0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maxium-frequency-stack.go) | | | Hard | | |
