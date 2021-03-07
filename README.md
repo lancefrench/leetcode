@@ -22,6 +22,7 @@ Repository of solutions to LeetCode problems.
 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [golang](./golang/distribute-candies/distribute-candies.go) | | | Easy |||
 0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [golang](./golang/shortest-unsorted-continuos-subarray.go) | | | Medium |||
 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)|
+0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [golang](./golang/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.go) | | | Easy | | | 
 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [golang](./golang/set-mismatch/set-mismatch.go) | | | Easy | | | 
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [golang](./golang/letter-case-permutation.go) | | | Medium | Bitwise Operation | [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)| 
