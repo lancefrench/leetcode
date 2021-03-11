@@ -5,7 +5,7 @@ Repository of solutions to LeetCode problems.
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium |||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium |||
-0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer.go) | | | Easy |||
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy |||
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium |||
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium |||
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         |||
