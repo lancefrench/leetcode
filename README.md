@@ -41,3 +41,4 @@ Repository of solutions to LeetCode problems.
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses) | | | Medium | | |
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [golang](./golang/the-k-weakest-rows-in-a-matrix.go) | | | Easy | | |
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [golang](./golang/number-of-steps-to-reduce-a-number-to-zero.go) | | | Easy | | |
+1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [golang](./golang/check-if-a-string-contains-all-binary-codes-of-size-k/check-if-a-string-contains-all-binary-codes-of-size-k.go) | | | Medium | | |
