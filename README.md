@@ -11,8 +11,8 @@ Repository of solutions to LeetCode problems.
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
-0160 | Intersection of Two Linked Lists | [golang](./golang/intersection-of-two-linked-lists.go) | | | Easy ||||
-0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [golang](./golang/number-of-1-bits.go) | | | Easy ||||
+0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [golang](./golang/intersection-of-two-linked-lists/intersection-of-two-linked-lists.go) | | | Easy ||| * |
+0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [golang](./golang/number-of-1-bits/number-of-1-bits.go) | | | Easy ||| * |
 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [golang](./golang/binary-tree-right-side-view.go) | | | Medium | Binary Tree |||
 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [golang](./golang/search-a-2d-matrix-ii/search-a-2d-matrix-ii.go) | | | Medium ||||
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [golang](./golang/valid-anagram.go) | | | Easy ||[Strings, bytes, runes, and characters in Go](https://blog.golang.org/strings)||
@@ -23,9 +23,9 @@ Repository of solutions to LeetCode problems.
 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [golang](./golang/encode-and-decode-tinyurl/encode-and-decode-tinyurl.go) | | | Medium ||| * |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree |||
 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [golang](./golang/distribute-candies/distribute-candies.go) | | | Easy ||||
-0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [golang](./golang/shortest-unsorted-continuos-subarray.go) | | | Medium ||||
+0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [golang](./golang/shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.go) | | | Medium ||||
 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)||
-0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [golang](./golang/add-one-row-to-tree/add-one-row-to-tree.go) | | | Medium ||||
+0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [golang](./golang/add-one-row-to-tree/add-one-row-to-tree.go) | | | Medium ||| * |
 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [golang](./golang/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.go) | | | Easy |||| 
 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [golang](./golang/set-mismatch/set-mismatch.go) | | | Easy |||| 
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
