@@ -24,24 +24,24 @@ Repository of solutions to LeetCode problems.
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree |||
 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [golang](./golang/distribute-candies/distribute-candies.go) | | | Easy ||||
 0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [golang](./golang/shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.go) | | | Medium ||||
-0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)||
+0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)| * |
 0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [golang](./golang/add-one-row-to-tree/add-one-row-to-tree.go) | | | Medium ||| * |
-0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [golang](./golang/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.go) | | | Easy |||| 
-0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [golang](./golang/set-mismatch/set-mismatch.go) | | | Easy |||| 
+0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [golang](./golang/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.go) | | | Easy ||| * | 
+0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [golang](./golang/set-mismatch/set-mismatch.go) | | | Easy ||| * | 
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
-0706 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [golang](./golang/design-hashmap/design-hashmap.go) | | | Easy ||||
+0706 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [golang](./golang/design-hashmap/design-hashmap.go) | | | Easy ||| * |
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [golang](./golang/letter-case-permutation.go) | | | Medium | Bitwise Operation | [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)||
 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[golang](./golang/is-graph-bipartite.go) | | | Medium ||||
-0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [golang](./golang/short-encoding-of-words/short-encoding-of-words.go) | | | Medium ||||
+0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [golang](./golang/short-encoding-of-words/short-encoding-of-words.go) | | | Medium ||| * |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy ||||
-0823 | [Binary Tree With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [golang](./golang/binary-tree-with-factors/binary-tree-with-factors.go) | | | Medium ||||
+0823 | [Binary Tree With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [golang](./golang/binary-tree-with-factors/binary-tree-with-factors.go) | | | Medium ||| * |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium ||||
-0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maxium-frequency-stack.go) | | | Hard ||||
+0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium ||||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium ||||
-1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses) | | | Medium ||||
+1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.go) | | | Medium ||||
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [golang](./golang/the-k-weakest-rows-in-a-matrix.go) | | | Easy ||||
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [golang](./golang/number-of-steps-to-reduce-a-number-to-zero.go) | | | Easy ||||
-1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [golang](./golang/check-if-a-string-contains-all-binary-codes-of-size-k/check-if-a-string-contains-all-binary-codes-of-size-k.go) | | | Medium ||||
+1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [golang](./golang/check-if-a-string-contains-all-binary-codes-of-size-k/check-if-a-string-contains-all-binary-codes-of-size-k.go) | | | Medium ||| * |
 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [golang](./golang/swapping-nodes-in-a-linked-list/swapping-nodes-in-a-linked-list.go) | | | Medium ||| * |
