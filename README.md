@@ -18,6 +18,7 @@ Repository of solutions to LeetCode problems.
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [golang](./golang/valid-anagram.go) | | | Easy ||[Strings, bytes, runes, and characters in Go](https://blog.golang.org/strings)||
 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [golang](./golang/peeking-iterator.go) | | | Medium ||[Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)||
 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [golang](./golang/coin-change/coin-change.go) | | | Medium ||| * |
+0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [golang](./golang/wiggle-subsequence/wiggle-subsequence.go) | | | Medium ||| * |
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium | Dynamic Programming |||
 0478 | [Generate Random Point in a Cirlcle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [golang](./golang/generate-random-point-in-a-circle/generate-random-point-in-a-circle.go) | | | Medium ||| * |
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium ||||
