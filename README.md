@@ -19,6 +19,7 @@ Repository of solutions to LeetCode problems.
 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [golang](./golang/peeking-iterator.go) | | | Medium ||[Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)||
 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [golang](./golang/coin-change/coin-change.go) | | | Medium ||| * |
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium | Dynamic Programming |||
+0478 | [Generate Random Point in a Cirlcle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [golang](./golang/generate-random-point-in-a-circle/generate-random-point-in-a-circle.go) | | | Medium ||| * |
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium ||||
 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [golang](./golang/encode-and-decode-tinyurl/encode-and-decode-tinyurl.go) | | | Medium ||| * |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree |||
