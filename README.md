@@ -38,6 +38,7 @@ Repository of solutions to LeetCode problems.
 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [golang](./golang/short-encoding-of-words/short-encoding-of-words.go) | | | Medium ||| * |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy ||||
 0823 | [Binary Tree With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [golang](./golang/binary-tree-with-factors/binary-tree-with-factors.go) | | | Medium ||| * |
+0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [golang](./golang/keys-and-rooms/keys-and-rooms.go) | | | Medium ||| * |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium ||||
 0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
