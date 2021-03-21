@@ -18,7 +18,9 @@ Repository of solutions to LeetCode problems.
 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [golang](./golang/valid-anagram.go) | | | Easy ||[Strings, bytes, runes, and characters in Go](https://blog.golang.org/strings)||
 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [golang](./golang/peeking-iterator.go) | | | Medium ||[Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)||
 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [golang](./golang/coin-change/coin-change.go) | | | Medium ||| * |
+0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [golang](./golang/wiggle-subsequence/wiggle-subsequence.go) | | | Medium ||| * |
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium | Dynamic Programming |||
+0478 | [Generate Random Point in a Cirlcle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [golang](./golang/generate-random-point-in-a-circle/generate-random-point-in-a-circle.go) | | | Medium ||| * |
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium ||||
 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [golang](./golang/encode-and-decode-tinyurl/encode-and-decode-tinyurl.go) | | | Medium ||| * |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree |||
@@ -36,6 +38,7 @@ Repository of solutions to LeetCode problems.
 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [golang](./golang/short-encoding-of-words/short-encoding-of-words.go) | | | Medium ||| * |
 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [golang](./golang/shortest-distance-to-a-character.go) | | | Easy ||||
 0823 | [Binary Tree With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [golang](./golang/binary-tree-with-factors/binary-tree-with-factors.go) | | | Medium ||| * |
+0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [golang](./golang/keys-and-rooms/keys-and-rooms.go) | | | Medium ||| * |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium ||||
 0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
