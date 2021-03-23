@@ -40,9 +40,10 @@ Repository of solutions to LeetCode problems.
 0823 | [Binary Tree With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [golang](./golang/binary-tree-with-factors/binary-tree-with-factors.go) | | | Medium ||| * |
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [golang](./golang/keys-and-rooms/keys-and-rooms.go) | | | Medium ||| * |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium ||||
-0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [golang](./golang/reordered-power-of-2/reordered-power-of-2.go) | | | Medium ||| * |
+0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [golang](./golang/reordered-power-of-2/reordered-power-of-2.go) | | | Medium ||| *
 0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
+0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [golang](./golang/vowel-spellchecker/vowel-spellchecker.go) | | | Medium ||| * |
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium ||||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium ||||
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.go) | | | Medium ||||
