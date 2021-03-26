@@ -40,7 +40,8 @@ Repository of solutions to LeetCode problems.
 0823 | [Binary Tree With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [golang](./golang/binary-tree-with-factors/binary-tree-with-factors.go) | | | Medium ||| * |
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [golang](./golang/keys-and-rooms/keys-and-rooms.go) | | | Medium ||| * |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium ||||
-0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [golang](./golang/reordered-power-of-2/reordered-power-of-2.go) | | | Medium ||| *
+0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [golang](./golang/reordered-power-of-2/reordered-power-of-2.go) | | | Medium ||| * |
+0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [golang](./golang/advantage-shuffle/advantage-shuffle.go) | | | Medium ||| * |
 0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [golang](./golang/3sum-with-multiplicity/3sum-with-multiplicity.go) | | | Medium ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
