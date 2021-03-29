@@ -21,6 +21,7 @@ Repository of solutions to LeetCode problems.
 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [golang](./golang/wiggle-subsequence/wiggle-subsequence.go) | | | Medium ||| * |
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium | Dynamic Programming |||
 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [golang](./pacific-atlantic-water-flow/pacific-atlantic-water-flow.go) | | | Medium ||| * |
+0423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [golang](./golang/reconstruct-original-digits-from-english/reconstruct-original-digits-from-english.go) | | | Medium ||| * |
 0478 | [Generate Random Point in a Cirlcle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [golang](./golang/generate-random-point-in-a-circle/generate-random-point-in-a-circle.go) | | | Medium ||| * |
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium ||||
 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [golang](./golang/encode-and-decode-tinyurl/encode-and-decode-tinyurl.go) | | | Medium ||| * |
