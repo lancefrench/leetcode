@@ -49,6 +49,7 @@ Repository of solutions to LeetCode problems.
 0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [golang](./golang/word-subsets/word-subsets.go) | | | Medium ||| * |
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [golang](./golang/3sum-with-multiplicity/3sum-with-multiplicity.go) | | | Medium ||| * |
+0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [golang](./golang/stamping-the-sequence/stamping-the-sequence.go) | | | Hard ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [golang](./golang/vowel-spellchecker/vowel-spellchecker.go) | | | Medium ||| * |
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium ||||
