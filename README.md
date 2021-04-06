@@ -41,6 +41,7 @@ Repository of solutions to LeetCode problems.
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
 0706 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [golang](./golang/design-hashmap/design-hashmap.go) | | | Easy ||| * |
 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [golang](./golang/best-time-to-buy-and-sell-stock-with-transaction-fee/best-time-to-buy-and-sell-stock-with-transaction-fee.go) | | | Medium ||| * |
+0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [golang](./golang/global-and-local-inversions/global-and-local-inversions.go) | | | Medium ||| * |
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [golang](./golang/letter-case-permutation.go) | | | Medium | Bitwise Operation | [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)||
 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[golang](./golang/is-graph-bipartite.go) | | | Medium ||||
 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [golang](./golang/short-encoding-of-words/short-encoding-of-words.go) | | | Medium ||| * |
