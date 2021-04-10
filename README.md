@@ -6,6 +6,7 @@ Repository of solutions to LeetCode problems.
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium ||||
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy ||||
+0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [golang](./golang/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.go) | | | Medium ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
@@ -56,6 +57,7 @@ Repository of solutions to LeetCode problems.
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [golang](./golang/3sum-with-multiplicity/3sum-with-multiplicity.go) | | | Medium ||| * |
 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [golang](./golang/stamping-the-sequence/stamping-the-sequence.go) | | | Hard ||| * |
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [golang](./golang/validate-stack-sequences/validate-stack-sequences.go) | | | Medium ||||
+0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [golang](./golang/verifying-an-alien-dictionary/verifying-an-alien-dictionary.go) | | | Easy ||| * |
 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [golang](./golang/vowel-spellchecker/vowel-spellchecker.go) | | | Medium ||| * |
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium ||||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium ||||
