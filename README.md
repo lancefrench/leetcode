@@ -63,6 +63,7 @@ Repository of solutions to LeetCode problems.
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium ||||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium ||||
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.go) | | | Medium ||||
+1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [golang](./golang/deepest-leaves-sum/deepest-leaves-sum.go) | | | Medium | ||| * |
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [golang](./golang/the-k-weakest-rows-in-a-matrix.go) | | | Easy ||||
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [golang](./golang/number-of-steps-to-reduce-a-number-to-zero.go) | | | Easy ||||
 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | (./golang/design-underground-system/design-underground-system.go) | | | Medium ||| * |
