@@ -22,6 +22,7 @@ Repository of solutions to LeetCode problems.
 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [golang](./golang/peeking-iterator.go) | | | Medium ||[Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)||
 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [golang](./golang/coin-change/coin-change.go) | | | Medium ||| * |
 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [golang](./longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.go) | | | Hard ||| * |
+0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [golang](./golang/flatten-nested-list-iterator/flatten-nested-list-iterator.go) | | | Medium ||| * |
 0354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [golang](./golang/russian-doll-envelopes/russian-doll-envelopes.go) | | | Hard ||| * |
 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [golang](./golang/wiggle-subsequence/wiggle-subsequence.go) | | | Medium ||| * |
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [golang](./golang/arithmetic-slices/arithmetic-slices.go) | | | Medium | Dynamic Programming |||
