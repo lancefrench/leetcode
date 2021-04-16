@@ -31,6 +31,7 @@ Repository of solutions to LeetCode problems.
 0423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [golang](./golang/reconstruct-original-digits-from-english/reconstruct-original-digits-from-english.go) | | | Medium ||| * |
 0474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [golang](./ones-and-zeroes/ones-and-zeroes.go) | | | Medium ||| * |
 0478 | [Generate Random Point in a Cirlcle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [golang](./golang/generate-random-point-in-a-circle/generate-random-point-in-a-circle.go) | | | Medium ||| * |
+0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [golang](./golang/fibonacci-number/fibonacci-number.go) | | | Easy ||| * |
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium ||||
 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [golang](./golang/encode-and-decode-tinyurl/encode-and-decode-tinyurl.go) | | | Medium ||| * |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree |||
