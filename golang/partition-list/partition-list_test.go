@@ -13,36 +13,45 @@ type ListNode struct {
 }
 
 type params struct {
-	head *ListNode
+	head []int
 	x    int
 }
 
 type output struct {
-	ans *ListNode
+	ans []int
 }
 
-func slice2linked(nums []int) *ListNode {
+func (n *ListNode) append(val int) {
+	newNode := ListNode{val, nil}
+
+	for n.Next != nil {
+		n = n.Next
+	}
+	n.Next = &newNode
+}
+
+func sliceToListNode(nums []int) *ListNode {
 	if len(nums) == 0 {
 		return nil
 	}
 
-	res := &ListNode{
+	linkedList := &ListNode{
 		Val: nums[0],
 	}
-	temp := res
+
 	for i := 1; i < len(nums); i++ {
-		temp.Next = &ListNode{
-			Val: nums[i],
-		}
-		temp = temp.Next
+		linkedList.append(nums[i])
 	}
-	return res
+	return linkedList
 }
 
-func Test_Problem0086(t *testing.T) {
+func TestProblem0086(t *testing.T) {
 	tcs := []tc{
 		{
-			params{},
+			params{
+				[]int{1, 4, 3, 2, 5, 2},
+				3,
+			},
 			output{},
 		},
 	}
