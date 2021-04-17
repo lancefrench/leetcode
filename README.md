@@ -66,6 +66,7 @@ Repository of solutions to LeetCode problems.
 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [golang](./golang/vowel-spellchecker/vowel-spellchecker.go) | | | Medium ||| * |
 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [golang](./golang/broken-calculator/broken-calculator.go) | | | Medium ||||
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [golang](./golang/shortest-path-in-binary-matrix.go) | | | Medium ||||
+1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [golang](./golang/minimum-swaps-to-group-all-1s-together/minimum-swaps-to-group-all-1s-together.go) | | | Medium ||| * |
 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [golang](./golang/remove-all-adjacent-duplicates-in-string-ii/remove-all-adjacent-duplicates-in-string-ii.go) | | | Medium ||| * |
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [golang](./golang/minimum-remove-to-make-valid-parentheses/minimum-remove-to-make-valid-parentheses.go) | | | Medium ||||
 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [golang](./golang/deepest-leaves-sum/deepest-leaves-sum.go) | | | Medium | ||| * |
