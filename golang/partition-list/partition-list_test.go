@@ -1,6 +1,10 @@
-package Problem0086
+package problem0086
 
-import "testing"
+import (
+	"testing"
+
+	"github.com/stretchr/testify/assert"
+)
 
 type tc struct {
 	params
@@ -52,18 +56,23 @@ func TestProblem0086(t *testing.T) {
 				[]int{1, 4, 3, 2, 5, 2},
 				3,
 			},
-			output{},
+			output{
+				[]int{1, 2, 2, 4, 3, 5},
+			},
 		},
 	}
 
 	for _, tc := range tcs {
 		p, o := tc.params, tc.output
 
-		got := partition(p.head, p.x)
-		want := o.ans
+		// Because it's easier to initialize our test
+		// cases as slices of ints, we use a helper
+		// function to load them into a ListNode for
+		// testing.
+		inputList := sliceToListNode(p.head)
+		got := partition(inputList, p.x)
+		want := sliceToListNode(o.ans)
 
-		if got != want {
-			t.Errorf("got partition(\"%v\") = %d want %d", p.head, got, want)
-		}
+		assert.Equal(t, want, got)
 	}
 }
