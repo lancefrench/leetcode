@@ -8,5 +8,5 @@ package Problem0086
  * }
  */
 func partition(head *ListNode, x int) *ListNode {
-
+	return nil
 }
