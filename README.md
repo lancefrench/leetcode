@@ -11,7 +11,7 @@ Repository of solutions to LeetCode problems.
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
-0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | | | Medium ||| * |
+0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
