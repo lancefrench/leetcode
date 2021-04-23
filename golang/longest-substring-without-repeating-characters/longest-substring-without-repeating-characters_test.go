@@ -29,6 +29,30 @@ func TestProblem0003(t *testing.T) {
 				3,
 			},
 		},
+		{
+			params{
+				"bbbbb",
+			},
+			output{
+				1,
+			},
+		},
+		{
+			params{
+				"pwwkew",
+			},
+			output{
+				3,
+			},
+		},
+		{
+			params{
+				"",
+			},
+			output{
+				0,
+			},
+		},
 	}
 
 	for _, tc := range tcs {
