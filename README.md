@@ -3,6 +3,7 @@ Repository of solutions to LeetCode problems.
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Notes| Needs Solution |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|--------------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [golang](./golang/two-sum/two-sum.go) | | | Easy ||| * |
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium ||||
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy ||||
@@ -37,6 +38,7 @@ Repository of solutions to LeetCode problems.
 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [golang](./golang/longest-word-in-dictionary-through-deleting/longest-word-in-dictionary-through-deleting.go) | | | Medium ||||
 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [golang](./golang/encode-and-decode-tinyurl/encode-and-decode-tinyurl.go) | | | Medium ||| * |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [golang](./golang/convert-bst-to-greater-tree.go) | | | Medium | Binary Tree |||
+0554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [golang](./golang/brick-wall/brick-wall.go) | | | Medium ||| * |
 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [golang](./golang/distribute-candies/distribute-candies.go) | | | Easy ||||
 0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [golang](./golang/shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.go) | | | Medium ||||
 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [golang](./golang/longest-harmonius-subsequence/longest-harmonius-subsequence.go) | | | Easy |Hash Table|[Hash Tables](https://algs4.cs.princeton.edu/34hash/)| * |
