@@ -17,11 +17,9 @@ func myAtoi(s string) int {
 			continue
 		case s[i] == '+':
 			i++
-			break
 		case s[i] == '-':
 			sign = -1
 			i++
-			break
 		case s[i] < '0' || s[i] > '9':
 			return 0
 		}
