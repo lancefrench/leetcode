@@ -5,6 +5,7 @@ Repository of solutions to LeetCode problems.
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|--------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [golang](./golang/two-sum/two-sum.go) | | | Easy ||||
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](./golang/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.go) | | | Medium ||| * |
+0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | | Medium ||| * |
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium ||||
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy ||||
