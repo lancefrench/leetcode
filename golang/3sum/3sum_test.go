@@ -32,6 +32,22 @@ func TestProblem0015(t *testing.T) {
 				},
 			},
 		},
+		{
+			params{
+				[]int{},
+			},
+			output{
+				[][]int{},
+			},
+		},
+		{
+			params{
+				[]int{0},
+			},
+			output{
+				[][]int{},
+			},
+		},
 	}
 
 	for _, tc := range tcs {
