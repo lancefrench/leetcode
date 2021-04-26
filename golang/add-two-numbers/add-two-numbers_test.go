@@ -55,6 +55,24 @@ func TestProblem0002(t *testing.T) {
 				[]int{7, 0, 8},
 			},
 		},
+		{
+			params{
+				[]int{0},
+				[]int{0},
+			},
+			output{
+				[]int{0},
+			},
+		},
+		{
+			params{
+				[]int{9, 9, 9, 9, 9, 9, 9},
+				[]int{9, 9, 9, 9},
+			},
+			output{
+				[]int{8, 9, 9, 9, 0, 0, 0, 1},
+			},
+		},
 	}
 
 	for _, tc := range tcs {
