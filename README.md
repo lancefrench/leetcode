@@ -4,6 +4,7 @@ Repository of solutions to LeetCode problems.
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Notes| Needs Solution |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|--------------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [golang](./golang/two-sum/two-sum.go) | | | Easy ||||
+0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [golang](./golang/add-two-numbers/add-two-numbers.go) | | | Medium ||||
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](./golang/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.go) | | | Medium ||||
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [golang](./golang/string-to-integer-atoi/string-to-integer-atoi.go) | | | Medium ||||
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
