@@ -6,11 +6,6 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 type tc struct {
 	params
 	output
