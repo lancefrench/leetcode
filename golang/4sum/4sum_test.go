@@ -23,8 +23,28 @@ type output struct {
 func TestProblem0018(t *testing.T) {
 	tcs := []tc{
 		{
-			params{},
-			output{},
+			params{
+				[]int{1, 0, -1, 0, -2, 2},
+				0,
+			},
+			output{
+				[][]int{
+					{-2, -1, 1, 2},
+					{-2, 0, 0, 2},
+					{-1, 0, 0, 1},
+				},
+			},
+		},
+		{
+			params{
+				[]int{2, 2, 2, 2, 2},
+				8,
+			},
+			output{
+				[][]int{
+					{2, 2, 2, 2},
+				},
+			},
 		},
 	}
 
