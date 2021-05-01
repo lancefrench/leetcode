@@ -12,6 +12,7 @@ Repository of solutions to LeetCode problems.
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy ||||
 0015 | [3 Sum](https://leetcode.com/problems/3sum/) | [golang] (./golang/3sum/3sum.go) | | | Medium ||||
 0016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [golang](./golang/3sum-closest/3sum-closest.go) | _O(n^2)_ | _O(n)_ | Medium ||||
+0018 | [4Sum](https://leetcode.com/problems/4sum/) | [golang](./golang/4sum/4sum.go) ||| Medium ||| * |
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [golang](./golang/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.go) | | | Medium ||| * |
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](./golang/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go) | | | Medium ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
