@@ -9,7 +9,7 @@ func threeSumClosest(nums []int, target int) int {
 	diff := math.MaxInt32
 	sort.Ints(nums)
 
-	for i, _ := range nums {
+	for i := range nums {
 		low, high := i+1, len(nums)-1
 		for low < high {
 			sum := nums[i] + nums[low] + nums[high]
