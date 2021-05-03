@@ -16,6 +16,7 @@ Repository of solutions to LeetCode problems.
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](./golang/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go) | | | Medium ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
+0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | | | Hard ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
