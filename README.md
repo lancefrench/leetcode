@@ -53,6 +53,7 @@ Repository of solutions to LeetCode problems.
 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [golang](./golang/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.go) | | | Easy ||| * | 
 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [golang](./golang/set-mismatch/set-mismatch.go) | | | Easy ||| * |
 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [golang](./golang/palindromic-substrings/palindromic-substrings.go) | | | Medium ||| * |
+0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [golang](./golang/non-decreasing-array/non-decreasing-array.go) | | | Medium ||| * |
 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [golang](./golang/beautiful-arrangement-ii/beautiful-arrangement-ii.go) | | | Medium ||| * |
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
 0706 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [golang](./golang/design-hashmap/design-hashmap.go) | | | Easy ||| * |
