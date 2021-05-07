@@ -25,6 +25,10 @@ func TestProblem0045(t *testing.T) {
 			params{[]int{2, 3, 1, 1, 4}},
 			output{2},
 		},
+		{
+			params{[]int{2, 3, 0, 1, 4}},
+			output{2},
+		},
 	}
 
 	for _, tc := range tcs {
