@@ -34,7 +34,7 @@ Repository of solutions to LeetCode problems.
 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [golang](./golang/coin-change/coin-change.go) | | | Medium ||| * |
 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [golang](./longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.go) | | | Hard ||| * |
 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [golang](./golang/flatten-nested-list-iterator/flatten-nested-list-iterator.go) | | | Medium ||| * |
-0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [golang](./golang/intersection-of-two-arrays/intersection-of-two-arrays.go) | | | Easy ||| * |
+0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [golang](./golang/intersection-of-two-arrays/intersection-of-two-arrays.go) | _O(n + m)_ | _O(n + m)_ | Easy ||||
 0354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [golang](./golang/russian-doll-envelopes/russian-doll-envelopes.go) | | | Hard ||| * |
 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [golang](./golang/wiggle-subsequence/wiggle-subsequence.go) | | | Medium ||| * |
 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [golang](./golang/combination-sum-iv/combination-sum-iv.go) | | | Medium ||| * |
