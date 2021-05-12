@@ -1,5 +1,5 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
-Repository of solutions to LeetCode problems.
+Repository of solutions to LeetCode problems in Go.
 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Notes| Needs Solution |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|--------------|
