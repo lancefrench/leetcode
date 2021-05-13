@@ -14,6 +14,7 @@ Repository of solutions to LeetCode problems in Go.
 0016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [golang](./golang/3sum-closest/3sum-closest.go) | _O(n^2)_ | _O(n)_ | Medium ||||
 0018 | [4Sum](https://leetcode.com/problems/4sum/) | [golang](./golang/4sum/4sum.go) | _O(n^3)_ | _O(n)_ | Medium ||||
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](./golang/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go) | | | Medium ||| * |
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](./golang/merge-two-sorted-lists/merge-two-sorted-lists.go) | | | Easy ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
