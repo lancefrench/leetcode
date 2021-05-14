@@ -25,6 +25,7 @@ Repository of solutions to LeetCode problems in Go.
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
+0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [golang](./golang/lru-cache/lru-cache.go) | | | Medium ||| * |
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [golang](./golang/intersection-of-two-linked-lists/intersection-of-two-linked-lists.go) | | | Easy ||| * |
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [golang](./golang/number-of-1-bits/number-of-1-bits.go) | | | Easy ||| * |
 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [golang](./golang/binary-tree-right-side-view.go) | | | Medium | Binary Tree |||
