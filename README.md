@@ -73,7 +73,7 @@ Repository of solutions to LeetCode problems in Go.
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [golang](./golang/score-of-parentheses/score-of-parentheses.go) | _O(n)_ | | Medium ||||
 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [golang](./golang/reordered-power-of-2/reordered-power-of-2.go) | | | Medium ||| * |
 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [golang](./golang/advantage-shuffle/advantage-shuffle.go) | | | Medium ||| * |
-0895 | [Maxium Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
+0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [golang](./golang/maximum-frequency-stack/maximum-frequency-stack.go) | | | Hard ||| * |
 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [golang](./golang/word-subsets/word-subsets.go) | | | Medium ||| * |
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [golang](./golang/3sum-with-multiplicity/3sum-with-multiplicity.go) | | | Medium ||| * |
 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [golang](./golang/stamping-the-sequence/stamping-the-sequence.go) | | | Hard ||| * |
