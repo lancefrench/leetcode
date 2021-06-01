@@ -62,6 +62,7 @@ Repository of solutions to LeetCode problems in Go.
 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [golang](./golang/non-decreasing-array/non-decreasing-array.go) | | | Medium ||| * |
 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [golang](./golang/beautiful-arrangement-ii/beautiful-arrangement-ii.go) | | | Medium ||| * |
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [golang](./golang/trim-a-binary-search-tree.go) | _O(n)_  | _O(1)_ | Medium | Binary Tree |[Binary Search Trees](https://algs4.cs.princeton.edu/32bst/)|
+0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [golang](./golang/max-area-of-island/max-area-of-island.go) | | | Medium ||| * |
 0706 | [Design Hashmap](https://leetcode.com/problems/design-hashmap/) | [golang](./golang/design-hashmap/design-hashmap.go) | | | Easy ||| * |
 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [golang](./golang/best-time-to-buy-and-sell-stock-with-transaction-fee/best-time-to-buy-and-sell-stock-with-transaction-fee.go) | | | Medium ||| * |
 0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [golang](./golang/global-and-local-inversions/global-and-local-inversions.go) | | | Medium ||| * |
