@@ -1,3 +1,5 @@
-func maxAreaOfIsland(grid [][]int) int {
+package problem0695
 
+func maxAreaOfIsland(grid [][]int) int {
+	return 0
 }
