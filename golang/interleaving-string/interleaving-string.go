@@ -1,3 +1,5 @@
-func isInterleave(s1 string, s2 string, s3 string) bool {
+package problem0097
 
+func isInterleave(s1 string, s2 string, s3 string) bool {
+	return false
 }
