@@ -22,6 +22,21 @@ type output struct {
 }
 
 func Test_Problem0097(t *testing.T) {
+	tcs := []tc{
+		{
+			params{
+				"aabcc",
+				"dbbca",
+				"aadbbcbcac",
+			},
+			output{true},
+		},
+	}
 
-	assert.Equal(t, expected, actual)
+	for _, tc := range tcs {
+		p, o := tc.params, tc.output
+		expected := o.ans
+		actual := isInterleave(p.s1, p.s2, p.s3)
+		assert.Equal(t, expected, actual)
+	}
 }
