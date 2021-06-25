@@ -31,6 +31,18 @@ func Test_Problem0097(t *testing.T) {
 			},
 			output{true},
 		},
+		{
+			params{
+				"aabcc",
+				"dbbca",
+				"aadbbbaccc",
+			},
+			output{false},
+		},
+		{
+			params{"", "", ""},
+			output{true},
+		},
 	}
 
 	for _, tc := range tcs {
