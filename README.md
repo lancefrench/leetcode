@@ -19,6 +19,7 @@ Repository of solutions to LeetCode problems in Go.
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [golang](./golang/jump-game-ii/jump-game-ii.go) ||| Medium ||||
+0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [golang](./golang/grou-anagrams/group-anagrams.go) ||| Medium ||||
 0053 | [Maxiumum Subarray](https://leetcode.com/problems/maximum-subarray/) | [golang](./golang/maximum-subarray/maximum-subarray.go) ||| Easy ||||
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [golang](./golang/merge-intervals/merge-intervals.go) ||| Medium ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
