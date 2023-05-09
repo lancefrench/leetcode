@@ -10,7 +10,7 @@ Repository of solutions to LeetCode problems in Go.
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium ||||
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy ||||
-0015 | [3 Sum](https://leetcode.com/problems/3sum/) | [golang] (./golang/3sum/3sum.go) | | | Medium ||||
+0015 | [3 Sum](https://leetcode.com/problems/3sum/) | [golang](./golang/3sum/3sum.go) | | | Medium ||||
 0016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [golang](./golang/3sum-closest/3sum-closest.go) | _O(n^2)_ | _O(n)_ | Medium ||||
 0018 | [4Sum](https://leetcode.com/problems/4sum/) | [golang](./golang/4sum/4sum.go) | _O(n^3)_ | _O(n)_ | Medium ||||
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](./golang/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go) | | | Medium ||| * |
@@ -25,6 +25,7 @@ Repository of solutions to LeetCode problems in Go.
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
+0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
