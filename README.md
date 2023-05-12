@@ -6,7 +6,8 @@ Repository of solutions to LeetCode problems in Go.
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [golang](./golang/two-sum/two-sum.go) | | | Easy ||||
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [golang](./golang/add-two-numbers/add-two-numbers.go) | | | Medium ||||
 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [golang](./golang/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.go) | | | Medium ||||
-0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [golang](./golang/median-of-two-sorted-arrays/) | | | Hard ||||
+0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [golang](./golang/median-of-two-sorted-arrays/) | | | Hard |||*|
+0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [golang](./golang/longest-palindromic-substring/longest-palindromic-substring.go) | | | Medium ||||
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [golang](./golang/string-to-integer-atoi/string-to-integer-atoi.go) | | | Medium ||||
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium ||||
