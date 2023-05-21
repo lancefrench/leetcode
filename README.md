@@ -9,6 +9,7 @@ Repository of solutions to LeetCode problems in Go.
 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [golang](./golang/median-of-two-sorted-arrays/) | | | Hard |||*|
 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [golang](./golang/longest-palindromic-substring/longest-palindromic-substring.go) | | | Medium ||||
 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [golang](./golang/zigzag-conversion/zigzag-conversion.go) | | | Medium |||*|
+0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [golang](./golang/reverse-integer/reverse-integer.go) | | | Medium |||*|
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [golang](./golang/string-to-integer-atoi/string-to-integer-atoi.go) | | | Medium ||||
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [golang](./golang/palindrome-number/palindrome-number.go) | | | Easy |||*|
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
