@@ -12,6 +12,7 @@ Repository of solutions to LeetCode problems in Go.
 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [golang](./golang/reverse-integer/reverse-integer.go) | | | Medium |||*|
 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [golang](./golang/string-to-integer-atoi/string-to-integer-atoi.go) | | | Medium ||||
 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [golang](./golang/palindrome-number/palindrome-number.go) | | | Easy |||*|
+0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [golang](./golang/regular-expression-matching/regular-expression-matching.go) | | | Hard |||*|
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [golang](./golang/container-with-most-water/container-with-most-water.go) | | | Medium ||||
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [golang](./golang/integer-to-roman/integer-to-roman.go) | | | Medium ||||
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [golang](./golang/roman-to-integer/roman-to-integer.go) | | | Easy ||||
