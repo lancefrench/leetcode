@@ -19,6 +19,7 @@ Repository of solutions to LeetCode problems in Go.
 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [golang](./golang/longest-common-prefix/longest-common-prefix.go) | | | Easy |||*|
 0015 | [3 Sum](https://leetcode.com/problems/3sum/) | [golang](./golang/3sum/3sum.go) | | | Medium ||||
 0016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [golang](./golang/3sum-closest/3sum-closest.go) | _O(n^2)_ | _O(n)_ | Medium ||||
+0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [golang](./golang/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.go) | _O(n * 4^n)_ | _O(n)_ | Medium |||*|
 0018 | [4Sum](https://leetcode.com/problems/4sum/) | [golang](./golang/4sum/4sum.go) | _O(n^3)_ | _O(n)_ | Medium ||||
 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [golang](./golang/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go) | | | Medium ||| * |
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](./golang/merge-two-sorted-lists/merge-two-sorted-lists.go) | | | Easy ||| * |
