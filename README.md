@@ -26,6 +26,7 @@ Repository of solutions to LeetCode problems in Go.
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [golang](./golang/merge-two-sorted-lists/merge-two-sorted-lists.go) | | | Easy ||| * |
 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [golang](./golang/generate-parentheses/generate-parentheses.go) | | | Medium ||| * |
 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [golang](./golang/merge-k-sorted-lists/merge-k-sorted-lists.go) | | | Hard ||| * |
+0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [golang](./golang/swap-nodes-in-pairs/swap-nodes-in-pairs.go) | | | Medium ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
