@@ -30,6 +30,7 @@ Repository of solutions to LeetCode problems in Go.
 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [golang](./golang/reverse-nodes-in-k-group/reverse-nodes-in-k-group.go) | | | Hard ||| * |
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [golang](./golang/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.go) | | | Easy ||| * |
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [golang](./golang/remove-element/remove-element.go) | | | Easy ||| * |
+0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [golang](./golang/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.go) | | | Easy ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
