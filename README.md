@@ -32,6 +32,7 @@ Repository of solutions to LeetCode problems in Go.
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [golang](./golang/remove-element/remove-element.go) | | | Easy ||| * |
 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [golang](./golang/find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.go) | | | Easy ||| * |
 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [golang](./golang/divide-two-integers/divide-two-integers.go) | | | Medium ||||
+0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [golang](./golang/substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.go) | | | Hard ||| * |
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [golang](./golang/jump-game-ii/jump-game-ii.go) ||| Medium ||||
