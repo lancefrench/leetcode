@@ -35,6 +35,7 @@ Repository of solutions to LeetCode problems in Go.
 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [golang](./golang/substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.go) | | | Hard ||| * |
 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [golang](./golang/next-permutation/next-permutation.go) | | | Medium ||| * |
 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [golang](./golang/longest-valid-parentheses/longest-valid-parentheses.go) | | | Hard ||| * |
+0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [golang](./golang/search-in-rotated-sorted-array/search-in-rotated-sorted-array.go) | | | Medium ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [golang](./golang/jump-game-ii/jump-game-ii.go) ||| Medium ||||
 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [golang](./golang/grou-anagrams/group-anagrams.go) ||| Medium ||||
