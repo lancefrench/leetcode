@@ -41,6 +41,7 @@ Repository of solutions to LeetCode problems in Go.
 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [golang](./golang/valid-sudoku/valid-sudoku.go) | | | Medium ||| * |
 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [golang](./golang/sudoku-solver/sudoku-solver.go) | | | Hard ||| * |
 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [golang](./golang/count-and-say/count-and-say.go) | | | Easy ||| * |
+0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [golang](./golang/combination-sum/combination-sum.go) | | | Medium ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [golang](./golang/jump-game-ii/jump-game-ii.go) ||| Medium ||||
 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [golang](./golang/grou-anagrams/group-anagrams.go) ||| Medium ||||
