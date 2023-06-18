@@ -43,6 +43,7 @@ Repository of solutions to LeetCode problems in Go.
 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [golang](./golang/count-and-say/count-and-say.go) | | | Easy ||| * |
 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [golang](./golang/combination-sum/combination-sum.go) | | | Medium ||| * |
 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [golang](./golang/combination-sum-ii/combination-sum-ii.go) | | | Medium ||| * |
+0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [golang](./golang/first-missing-positive/first-missing-positive.go) | | | Hard ||| * |
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [golang](./golang/trapping-rain-water/trapping-rain-water.go) | _O(n)_ | _O(1)_ | Hard ||||
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [golang](./golang/jump-game-ii/jump-game-ii.go) ||| Medium ||||
 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [golang](./golang/grou-anagrams/group-anagrams.go) ||| Medium ||||
