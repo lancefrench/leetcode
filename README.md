@@ -50,6 +50,7 @@ Repository of solutions to LeetCode problems in Go.
 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [golang](./golang/jump-game-ii/jump-game-ii.go) ||| Medium ||||
 0046 | [Permutations](https://leetcode.com/problems/permutations/) | [golang](./golang/permutations/permutations.go) ||| Medium ||| * |
 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [golang](./golang/permutations-ii/permutations-ii.go) ||| Medium ||| * |
+0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [golang](./golang/rotate-image/rotate-image.go) ||| Medium ||| * |
 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [golang](./golang/grou-anagrams/group-anagrams.go) ||| Medium ||||
 0053 | [Maxiumum Subarray](https://leetcode.com/problems/maximum-subarray/) | [golang](./golang/maximum-subarray/maximum-subarray.go) ||| Easy ||||
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [golang](./golang/merge-intervals/merge-intervals.go) ||| Medium ||| * |
