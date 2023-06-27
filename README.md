@@ -54,6 +54,7 @@ Repository of solutions to LeetCode problems in Go.
 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [golang](./golang/grou-anagrams/group-anagrams.go) ||| Medium ||||
 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [golang](./golang/powx-n/powx-n.go) ||| Medium ||| * |
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [golang](./golang/n-queens/n-queens.go) ||| Hard ||| * |
+0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [golang](./golang/n-queens-ii/n-queens-ii.go) ||| Hard ||| * |
 0053 | [Maxiumum Subarray](https://leetcode.com/problems/maximum-subarray/) | [golang](./golang/maximum-subarray/maximum-subarray.go) ||| Easy ||||
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [golang](./golang/merge-intervals/merge-intervals.go) ||| Medium ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
