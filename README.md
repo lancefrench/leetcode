@@ -56,6 +56,8 @@ Repository of solutions to LeetCode problems in Go.
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [golang](./golang/n-queens/n-queens.go) ||| Hard ||| * |
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [golang](./golang/n-queens-ii/n-queens-ii.go) ||| Hard ||| * |
 0053 | [Maxiumum Subarray](https://leetcode.com/problems/maximum-subarray/) | [golang](./golang/maximum-subarray/maximum-subarray.go) ||| Easy ||||
+0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [golang](./golang/spiral-matrix/spiral-matrix.go) ||| Medium ||| * |
+0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [golang](./golang/jump-game/jump-game.go) ||| Medium ||| * |
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [golang](./golang/merge-intervals/merge-intervals.go) ||| Medium ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
