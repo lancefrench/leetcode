@@ -59,6 +59,7 @@ Repository of solutions to LeetCode problems in Go.
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [golang](./golang/spiral-matrix/spiral-matrix.go) ||| Medium ||| * |
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [golang](./golang/jump-game/jump-game.go) ||| Medium ||| * |
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [golang](./golang/merge-intervals/merge-intervals.go) ||| Medium ||| * |
+0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [golang](./golang/insert-interval/insert-interval.go) ||| Hard ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
