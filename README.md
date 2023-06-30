@@ -60,6 +60,7 @@ Repository of solutions to LeetCode problems in Go.
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [golang](./golang/jump-game/jump-game.go) ||| Medium ||| * |
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [golang](./golang/merge-intervals/merge-intervals.go) ||| Medium ||| * |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [golang](./golang/insert-interval/insert-interval.go) ||| Hard ||| * |
+0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [golang](./golang/length-of-last-word/length-of-last-word.go) ||| Easy ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
