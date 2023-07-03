@@ -62,6 +62,7 @@ Repository of solutions to LeetCode problems in Go.
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [golang](./golang/insert-interval/insert-interval.go) ||| Hard ||| * |
 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [golang](./golang/length-of-last-word/length-of-last-word.go) ||| Easy ||| * |
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [golang](./golang/spiral-matrix-ii/spiral-matrix-ii.go) ||| Medium ||| * |
+0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [golang](./golang/permutation-sequence/permutation-sequence.go) ||| Medium ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
