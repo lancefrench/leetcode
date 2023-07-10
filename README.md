@@ -67,6 +67,7 @@ Repository of solutions to LeetCode problems in Go.
 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [golang](./golang/unique-paths/unique-paths.go) ||| Medium ||| * |
 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [golang](./golang/unique-paths-ii/unique-paths-ii.go) ||| Medium ||| * |
 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [golang](./golang/minimum-path-sum/minimum-path-sum.go) ||| Medium ||| * |
+0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [golang](./golang/valid-number/valid-number.go) ||| Hard ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
