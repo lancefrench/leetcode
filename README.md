@@ -70,6 +70,7 @@ Repository of solutions to LeetCode problems in Go.
 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [golang](./golang/valid-number/valid-number.go) ||| Hard ||| * |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [golang](./golang/plus-one/plus-one.go) ||| Easy ||| * |
 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [golang](./golang/add-binary/add-binary.go) ||| Easy ||| * |
+0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | [golang](./golang/text-justification/text-justification.go) ||| Hard ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
