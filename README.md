@@ -74,6 +74,7 @@ Repository of solutions to LeetCode problems in Go.
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [golang](./golang/sqrtx/sqrtx.go) ||| Easy ||| * |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [golang](./golang/climbing-stairs/climbing-stairs.go) ||| Easy ||| * |
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [golang](./golang/simplify-path.go) | | | Medium ||||
+0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [golang](./golang/edit-distance/edit-distance.go) ||| Hard ||| * |
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
