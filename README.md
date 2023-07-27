@@ -79,6 +79,7 @@ Repository of solutions to LeetCode problems in Go.
 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [golang](./golang/search-a-2d-matrix/search-a-2d-matrix.go) ||| Medium ||| * |
 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [golang](./golang/sort-colors/sort-colors.go) ||| Medium ||| * |
 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [golang](./golang/minimum-window-substring/minimum-window-substring.go) ||| Hard ||| * |
+0077 | [Combinations](https://leetcode.com/problems/combinations/) | [golang](./golang/combinations/combinations.go) ||| Medium ||| * |
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
