@@ -85,6 +85,7 @@ Repository of solutions to LeetCode problems in Go.
 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [golang](./golang/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.go) ||| Medium ||| * |
 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [golang](./golang/search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.go) ||| Medium ||| * |
 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [golang](./golang/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.go) ||| Medium ||| * |
+0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [golang](./golang/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.go) ||| Easy ||| * |
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
