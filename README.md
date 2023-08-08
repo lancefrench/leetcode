@@ -90,6 +90,7 @@ Repository of solutions to LeetCode problems in Go.
 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [golang](./golang/maximal-rectangle/maximal-rectangle.go) ||| Hard ||| * |
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [golang](./golang/partition-list/partition-list.go) | _O(n)_ | _O(1)_| Medium ||||
 0087 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [golang](./golang/scramble-string/scramble-string.go) ||| Hard ||| * |
+0089 | [Gray Code](https://leetcode.com/problems/gray-code/) | [golang](./golang/gray-code/gray-code.go) ||| Medium ||| * |
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
