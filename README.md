@@ -96,6 +96,7 @@ Repository of solutions to LeetCode problems in Go.
 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [golang](./golang/reverse-linked-list-ii/reverse-linked-list-ii.go) ||| Medium ||| * |
 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [golang](./golang/restore-ip-addresses/restore-ip-addresses.go) ||| Medium ||| * |
 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [golang](./golang/binary-tree-inorder-traversal/binary-tree-inorder-traversal.go) ||| Medium ||| * |
+0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [golang](./golang/unique-binary-search-trees-ii/unique-binary-search-trees-ii.go) ||| Medium ||| * |
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
