@@ -1,3 +1,5 @@
+package problem0094
+
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -7,5 +9,5 @@
  * }
  */
 func inorderTraversal(root *TreeNode) []int {
-
+	return []int{}
 }
