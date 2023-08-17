@@ -9,5 +9,5 @@ package problem0095
  * }
  */
 func generateTrees(n int) []*TreeNode {
-
+	return []*TreeNode{}
 }
