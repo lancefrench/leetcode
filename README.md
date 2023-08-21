@@ -100,6 +100,7 @@ Repository of solutions to LeetCode problems in Go.
 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [golang](./golang/unique-binary-search-trees/unique-binary-search-trees.go) ||| Medium ||| * |
 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [golang](./golang/interleaving-string/interleaving-string.go) || Medium ||| * |
 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [golang](./golang/validate-binary-search-tree/validate-binary-search-tree.go) ||| Medium ||| * |
+0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [golang](./golang/recover-binary-search-tree/recover-binary-search-tree.go) ||| Hard ||| * |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [golang](./golang/same-tree/same-tree.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
