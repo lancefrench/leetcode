@@ -105,6 +105,7 @@ Repository of solutions to LeetCode problems in Go.
 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [golang](./golang/symmetric-tree/symmetric-tree.go) ||| Easy |||*|
 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [golang](./golang/binary-tree-level-order-traversal/binary-tree-level-order-traversal.go) ||| Medium |||*|
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [golang](./golang/binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.go) ||| Medium |||*|
+0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [golang](./golang/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
