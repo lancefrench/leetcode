@@ -113,6 +113,7 @@ Repository of solutions to LeetCode problems in Go.
 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [golang](./golang/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.go) ||| Medium |||*|
 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [golang](./golang/balanced-binary-tree/balanced-binary-tree.go) ||| Easy |||*|
 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [golang](./golang/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.go) ||| Easy |||*|
+0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [golang](./golang/path-sum/path-sum.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
