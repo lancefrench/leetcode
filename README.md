@@ -121,6 +121,7 @@ Repository of solutions to LeetCode problems in Go.
 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [golang](./golang/populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.go) ||| Medium |||*|
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [golang](./golang/pascals-triangle/pascals-triangle.go) ||| Easy |||*|
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [golang](./golang/pascals-triangle-ii/pascals-triangle-ii.go) ||| Easy |||*|
+0120 | [Triangle](https://leetcode.com/problems/triangle/) | [golang](./golang/triangle/triangle.go) ||| Medium |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
