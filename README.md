@@ -126,6 +126,7 @@ Repository of solutions to LeetCode problems in Go.
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [golang](./golang/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.go) ||| Easy |||*|
 0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [golang](./golang/best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.go) ||| Hard |||*|
 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [golang](./golang/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.go) ||| Hard |||*|
+0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [golang](./golang/valid-palindrome/valid-palindrome.go) ||| Easy |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
