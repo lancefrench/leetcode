@@ -129,6 +129,7 @@ Repository of solutions to LeetCode problems in Go.
 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [golang](./golang/valid-palindrome/valid-palindrome.go) ||| Easy |||*|
 0126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [golang](./golang/word-ladder-ii/word-ladder-ii.go) ||| Hard |||*|
 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [golang](./golang/word-ladder/word-ladder.go) ||| Medium |||*|
+0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [golang](./golang/longest-consecutive-sequence/longest-consecutive-sequence.go) ||| Hard |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
