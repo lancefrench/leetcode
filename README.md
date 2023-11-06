@@ -133,6 +133,7 @@ Repository of solutions to LeetCode problems in Go.
 0129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [golang](./golang/sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.go) ||| Medium |||*|
 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [golang](./golang/surrounded-regions/surrounded-regions.go) ||| Medium |||*|
 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [golang](./golang/palindrome-partitioning/palindrome-partitioning.go) ||| Medium |||*|
+0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [golang](./golang/palindrome-partitioning-ii/palindrome-partitioning-ii.go) ||| Hard |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
