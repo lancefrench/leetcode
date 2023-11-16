@@ -138,6 +138,7 @@ Repository of solutions to LeetCode problems in Go.
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [golang](./golang/gas-station/gas-station.go) ||| Medium |||*|
 0135 | [Candy](https://leetcode.com/problems/candy/) | [golang](./golang/candy/candy.go) ||| Hard |||*|
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
+0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [golang](./golang/single-number-ii.go) | _O(n)_       | _O(1)_          | Medium         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [golang](./golang/lru-cache/lru-cache.go) | | | Medium ||| * |
