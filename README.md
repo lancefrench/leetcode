@@ -140,6 +140,7 @@ Repository of solutions to LeetCode problems in Go.
 0136 | [Single Number](https://leetcode.com/problems/single-number/) | [golang](./golang/single-number.go) | _O(n)_       | _O(1)_          | Easy         ||||
 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [golang](./golang/single-number-ii.go) | _O(n)_       | _O(1)_          | Medium         ||||
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [golang](./golang/copy-list-with-random-pointer.go) | | | Medium ||||
+0139 | [Word Break](https://leetcode.com/problems/word-break/) | [golang](./golang/word-break/word-break.go) | | | Medium ||| * |
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [golang](./golang/linked-list-cycle.go) | _O(n)_ | _O(1)_ | Easy ||||
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [golang](./golang/lru-cache/lru-cache.go) | | | Medium ||| * |
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [golang](./golang/intersection-of-two-linked-lists/intersection-of-two-linked-lists.go) | | | Easy ||| * |
