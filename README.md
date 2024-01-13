@@ -147,6 +147,7 @@ Repository of solutions to LeetCode problems in Go.
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [golang](./golang/reorder-list.go) | _O(n)_ | _O(1)_ | Medium ||||
 0144 | [Binary Tree Preorder Traverbsal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [golang](./golang/binary-tree-preorder-traversal.go) | _O(n)_ | _O(1)_ | Medium ||||
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [golang](./golang/lru-cache/lru-cache.go) | | | Medium ||| * |
+0147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [golang](./golang/insertion-sort-list/insertion-sort-list.go) | | | Medium ||| * |
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [golang](./golang/intersection-of-two-linked-lists/intersection-of-two-linked-lists.go) | | | Easy ||| * |
 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [golang](./golang/number-of-1-bits/number-of-1-bits.go) | | | Easy ||| * |
 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [golang](./golang/binary-tree-right-side-view.go) | | | Medium | Binary Tree |||
